@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "se-cicd-b5fe4"
-  }
+    "default": "se-cicd-b5fe4",
+    "github-action-practice": "se-cicd-b5fe4"
+  },
+  "targets": {},
+  "etags": {}
 }
